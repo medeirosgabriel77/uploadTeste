@@ -1,2 +1,2 @@
 # uploadTeste
-Utilizei pro preferencia a  linguagem C# por que é a que estou estudando no momento. 
+Utilizei por preferencia a linguagem C# porque é a que estou estudando no momento. 
